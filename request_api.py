@@ -15,6 +15,7 @@ def get_genesis_api(
         delimiter: str=';',
         header: list[int]=[0,1],
         save_json: bool=False,
+        return_dictionary=False,
 ) -> pd.DataFrame:
 
     dataframes = {}
@@ -57,8 +58,10 @@ def get_genesis_api(
     
     result = pd.concat(dataframes.values(), axis=0)
     if max(years) != min(years):
-        print('Dumping concatenated DF')
         result.to_csv(f'data/{code}_{min(years)}_{max(years)}.csv')
+
+    if return_dictionary:
+        return result, dataframes
 
     return result
 
