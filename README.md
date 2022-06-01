@@ -14,6 +14,11 @@ Overview:
 
 
 * [genesis](https://www-genesis.destatis.de/genesis/online?operation=previous&levelindex=0&step=0&titel=&levelid=1652949290654&acceptscookies=false)
+  * [API Documentation](https://www-genesis.destatis.de/genesis/misc/GENESIS-Webservices_Einfuehrung.pdf)  
+
+* Regionaldatenbank
+  * [Database](https://www.regionalstatistik.de/genesis/online/) 
+  * [API Documentation](https://www.regionalstatistik.de/genesis/misc/Deep-Links_REG.pdf) 
 
 Open Source - prepared data from Statistisches Bundesamt
 * [Datenguide](https://datengui.de/)
