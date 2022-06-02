@@ -1,3 +1,4 @@
 cred.py
 data/
 *.pyc
+.env
