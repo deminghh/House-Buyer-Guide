@@ -2,7 +2,7 @@ import pandas as pd
 
 data = pd.read_csv('all_merged_scaled_f.csv', index_col=0)
 
-columns = ['age_avg', 'new_building', 'area_new_b', 'rooms_new_b', 'cinema', 'cinema_seat', 'museum',
+columns = ['age_avg', 'employment_rate', 'new_building', 'area_new_b', 'rooms_new_b', 'cinema', 'cinema_seat', 'museum',
        'apartment', 'restaurant']
 
 default_weights = dict(zip(columns, [1] * 9))
