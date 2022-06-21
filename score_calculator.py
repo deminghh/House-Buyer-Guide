@@ -1,7 +1,7 @@
 import pandas as pd
 
 
-data = pd.read_csv('all_merged_scaled_ur.csv', index_col=0)
+data = pd.read_csv('all_scaled_grouped.csv', index_col=0)
 
 columns = ['age_avg', 'employment_rate', 'new_building', 'area_new_b', 'rooms_new_b', 'cinema_seat', 'museum',
            'apartment', 'restaurant', 'living_space_1000qm', 'pop_diff', 'house_price_€/m²', 'salary', 'babyboomer_percentage']
