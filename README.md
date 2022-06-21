@@ -2,7 +2,9 @@
 
 Welcome to our capstone project! Click on the photo to try it:
 
-[![Dashboard](img/dashboard.png)](https://public.tableau.com/app/profile/deming.cheung/viz/WheretoBuyaHouseinGermany/Dashboard1)
+[![Dashboard](img/dashboard.png)](https://public.tableau.com/app/profile/farnaz.irani/viz/HouseBuyerGuide/Dashboard)
+
+
 
 ## Overview
 
