@@ -1,8 +1,8 @@
 # Real-Estate-Demographics
 
-Welcome to our capstone project!
+Welcome to our capstone project! Click on the photo to try it:
 
-![Dashboard](img/dashboard.png)
+[![Dashboard](img/dashboard.png)](https://public.tableau.com/app/profile/deming.cheung/viz/WheretoBuyaHouseinGermany/Dashboard1)
 
 ## Overview
 
